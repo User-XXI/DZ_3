@@ -1,0 +1,5 @@
+Group for test;4;0
+APetrov; Ivan; Vladimirovich; 0; C++-2; DisMaths-0; English-0; Geometry-0; Maths-0;
+Sidorov; Dmitriy; Ivanovich; 0; C++-0; DisMaths-5; English-0; Geometry-0; Maths-0;
+Ivanov; Egor; V; 0; C++-3; DisMaths-5; English-0; Geometry-2; Maths-0;
+Black; Chou; A; 0; C++-5; DisMaths-5; English-5; Geometry-5; Maths-5
